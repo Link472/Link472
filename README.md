@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Link472
-- Im doing this for MSIS4363
 - 🌱 I’m currently learning 
 - 💞️ I have no idea what is going on
 -
