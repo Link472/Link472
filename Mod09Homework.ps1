@@ -20,6 +20,7 @@ Write-Host "Welcome to the soda machine. You can enter values of 5, 10, or 25 in
 $user_soda = Read-Host "What type of soda would you like?"
 if (-not $user_soda) ###############################################################
 {
+# Try catch that bitch
 }
 Write-Host "`r`nThe price of $user_soda is $soda_price cents`r`n"
 
